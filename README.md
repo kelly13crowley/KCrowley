@@ -1,2 +1,2 @@
-# KCrowley.github.io
+# KCrowley
 Web design final project
